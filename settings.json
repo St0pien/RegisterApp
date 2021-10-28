@@ -1,0 +1,11 @@
+{
+    "API": "http://10.71.19.215:3000",
+    "colors": {
+        "primary": "#f9a825",
+        "primaryLight": "#ffd95a",
+        "primaryDark": "#c17900",
+        "secondary": "#ffa000",
+        "secondaryDark": "#c67100",
+        "secondaryLight": "#ffd149"
+    }
+}
